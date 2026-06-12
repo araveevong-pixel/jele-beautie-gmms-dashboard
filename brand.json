@@ -1,0 +1,24 @@
+{
+  "campaign_name": "Jele Beautie GMMS 2026",
+  "logo_emoji": "💄",
+  "tagline": "KOL Influencer Marketing Campaign Dashboard — Jele Beautie x Give Me Museums",
+  "platform": "TikTok + Facebook",
+  "agency": "BBB",
+  "hashtags": "#JeleBeautieXGiveMeMuseums",
+  "kpi_target_views": 3700000,
+  "media_budget": 44000,
+  "color_primary": "#FF4FA3",
+  "color_primary_dark": "#D8348A",
+  "color_secondary": "#9D5BFF",
+  "color_accents": [
+    "#FF6BB3",
+    "#9D5BFF",
+    "#5BC25B",
+    "#0077B6",
+    "#FFB84D"
+  ],
+  "github_user": "araveevong-pixel",
+  "repo_name": "jele-beautie-gmms-dashboard",
+  "category_label": "Category",
+  "tier_label": "Tier"
+}
