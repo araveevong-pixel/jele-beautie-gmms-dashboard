@@ -43,16 +43,16 @@ KOL_METADATA = {
 }
 
 KOL_LINKS = {
-    "reviewmakro_fb_beautie": "",
+    "reviewmakro_fb_beautie": "Posted",
     "papetchhh": "https://vt.tiktok.com/ZSQSKSn7G/",
     "jabchai.me": "https://vt.tiktok.com/ZSQACsByj/",
 }
 
 # KOLs ที่ยังไม่โพสต์ — ลบชื่อออกเมื่อโพสต์แล้ว
-NOT_POSTED_KOLS = set(["reviewmakro_fb_beautie"])
+NOT_POSTED_KOLS = set([])
 
 KOL_STATUS = {
-    "reviewmakro_fb_beautie": "รอโพสต์ 12 Jun",
+    "reviewmakro_fb_beautie": "Posted",
     "papetchhh": "Posted",
     "jabchai.me": "Posted",
 }
