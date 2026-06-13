@@ -43,7 +43,7 @@ KOL_METADATA = {
 }
 
 KOL_LINKS = {
-    "reviewmakro_fb_beautie": "Posted",
+    "reviewmakro_fb_beautie": "https://www.facebook.com/share/p/1d9vRknKD9/",
     "papetchhh": "https://vt.tiktok.com/ZSQSKSn7G/",
     "jabchai.me": "https://vt.tiktok.com/ZSQACsByj/",
 }
