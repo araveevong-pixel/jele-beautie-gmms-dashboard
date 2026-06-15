@@ -20,7 +20,7 @@ import random
 # ============================================================
 MANUAL_OVERRIDE = {
     # Facebook KOL — yt-dlp cannot scrape FB. Update views manually from Facebook Insights.
-    'reviewmakro_fb_beautie': {'views': 0, 'likes': 0, 'shares': 0, 'comments': 0, 'saves': 0, 'followers': 1000000},
+    'reviewmakro_fb_beautie': {'views': 600000, 'likes': 1400, 'shares': 2900, 'comments': 60, 'saves': 10, 'followers': 1000000},
 }
 
 # ============================================================
