@@ -17,10 +17,13 @@
     "saves": 89,
     "followers": 0
   },
-  "_debug_jabchai.me": {
-    "orig_url": "https://vt.tiktok.com/ZSQACsByj/",
-    "curl_resolve": "https://www.tiktok.com/@jabchai.me/video/7649694425135746324?_r=1&_t=ZS-975geoIQfYa|200",
-    "ytdlp_stderr": "ERROR: [TikTok] 7649694425135746324: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n",
-    "ytdlp_returncode": 1
+  "jabchai.me": {
+    "url": "https://www.tiktok.com/@jabchai.me/video/7649694425135746324?_r=1&_t=ZS-975geoIQfYa",
+    "views": 1600000,
+    "likes": 997,
+    "shares": 132,
+    "comments": 14,
+    "saves": 115,
+    "followers": 0
   }
 }
