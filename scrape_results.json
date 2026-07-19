@@ -8,17 +8,14 @@
     "followers": 1000000,
     "url": "https://www.facebook.com/share/p/1d9vRknKD9/"
   },
-  "papetchhh": {
-    "url": "https://www.tiktok.com/@papetchhh/video/7649627219060460807?_r=1&_t=ZS-975NNe3Mrh9",
-    "views": 1600000,
-    "likes": 1229,
-    "shares": 54,
-    "comments": 5,
-    "saves": 89,
-    "followers": 0
+  "_debug_papetchhh": {
+    "orig_url": "https://vt.tiktok.com/ZSQSKSn7G/",
+    "curl_resolve": "https://www.tiktok.com/@papetchhh/video/7649627219060460807?_r=1&_t=ZS-975NNe3Mrh9|200",
+    "ytdlp_stderr": "ERROR: [TikTok] 7649627219060460807: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n",
+    "ytdlp_returncode": 1
   },
   "jabchai.me": {
-    "url": "https://www.tiktok.com/@jabchai.me/video/7649694425135746324?_r=1&_t=ZS-975geoIQfYa",
+    "url": "https://www.tiktok.com/@jabchai.me/video/7649694425135746324",
     "views": 1600000,
     "likes": 998,
     "shares": 132,
