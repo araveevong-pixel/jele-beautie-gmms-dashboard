@@ -9,7 +9,7 @@
     "url": "https://www.facebook.com/share/p/1d9vRknKD9/"
   },
   "papetchhh": {
-    "url": "https://www.tiktok.com/@papetchhh/video/7649627219060460807?_r=1&_t=ZS-975NNe3Mrh9",
+    "url": "https://www.tiktok.com/@papetchhh/video/7649627219060460807",
     "views": 1600000,
     "likes": 1229,
     "shares": 54,
@@ -17,13 +17,10 @@
     "saves": 89,
     "followers": 0
   },
-  "jabchai.me": {
-    "url": "https://www.tiktok.com/@jabchai.me/video/7649694425135746324?_r=1&_t=ZS-975geoIQfYa",
-    "views": 1600000,
-    "likes": 999,
-    "shares": 132,
-    "comments": 14,
-    "saves": 114,
-    "followers": 0
+  "_debug_jabchai.me": {
+    "orig_url": "https://vt.tiktok.com/ZSQACsByj/",
+    "curl_resolve": "https://www.tiktok.com/@jabchai.me/video/7649694425135746324?_r=1&_t=ZS-975geoIQfYa|200",
+    "ytdlp_stderr": "",
+    "ytdlp_returncode": 0
   }
 }
