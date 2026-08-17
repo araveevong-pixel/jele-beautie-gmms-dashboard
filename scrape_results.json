@@ -17,13 +17,10 @@
     "saves": 88,
     "followers": 0
   },
-  "jabchai.me": {
-    "url": "https://www.tiktok.com/@jabchai.me/video/7649694425135746324?_r=1&_t=ZS-975geoIQfYa",
-    "views": 1600000,
-    "likes": 1009,
-    "shares": 138,
-    "comments": 13,
-    "saves": 115,
-    "followers": 0
+  "_debug_jabchai.me": {
+    "orig_url": "https://vt.tiktok.com/ZSQACsByj/",
+    "curl_resolve": "https://www.tiktok.com/@jabchai.me/video/7649694425135746324?_r=1&_t=ZS-975geoIQfYa|200",
+    "ytdlp_stderr": "WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nERROR: [TikTok] 7649694425135746324: Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\n",
+    "ytdlp_returncode": 1
   }
 }
